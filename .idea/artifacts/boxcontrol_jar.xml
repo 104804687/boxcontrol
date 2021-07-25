@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="boxcontrol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/boxcontrol_jar</output-path>
+    <root id="archive" name="boxcontrol.jar">
+      <element id="module-output" name="boxcontrol" />
+    </root>
+  </artifact>
+</component>
